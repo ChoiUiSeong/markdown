@@ -31,3 +31,4 @@
 | 이름 | 사진 | 설명 | URL |
 | :-----: | :-----:  | :-----:  | :-------: |
 | 구글 프로젝트 룬 | ![alt text](google.png) |  여러 개의 풍선이 떠다니면서 인터넷을 지원해주는 시스템 | [URL] (https://brunch.co.kr/@bruncho7zx/16) |
+| KT 드론 기지국 | ![alt text](kt.png) |  다수의 드론에 LTE 가 장착된 단말기를 사용하여 한꺼번에 공중으로 띄워 통신 커버리지를 확보 | [URL] [reference link] | [reference link]:http://www.newsis.com/ar_detail/view.html?ar_id=NISX20151124_0010435940
