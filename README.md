@@ -1,4 +1,7 @@
 #6조. 스페이스 스테이션
+
+![alt text](main.png)
+
 | 학과 | 학번 | 이름 | id | 분반 | 지도교수 |
 | :------: | :------ |:-----: |  :------: | ------: | :------: |
 | 컴공 | 2011136026 | 김정원 | kjwkjwkjw | 01 | 강승우 교수님 |
@@ -26,9 +29,11 @@
 | 스페이스 스테이션 | ![alt text](system.png) | 지진 발생시 통신 마비 현상을 해결하기 위해 드론을 활용한 간이 기지국을 설계하여 지진 피해자에 통신마비에 따른 불안감을 해소 시킴. |
 
 --------------
-###**3. 기존 제품 조사 및 분석**
 
-| 이름 | 사진 | 설명 | URL |
-| :-----: | :-----:  | :-----:  | :-------: |
-| 구글 프로젝트 룬 | ![alt text](google.png) |  여러 개의 풍선이 떠다니면서 인터넷을 지원해주는 시스템 | [URL] (https://brunch.co.kr/@bruncho7zx/16) |
-| KT 드론 기지국 | ![alt text](kt.png) |  다수의 드론에 LTE 가 장착된 단말기를 사용하여 한꺼번에 공중으로 띄워 통신 커버리지를 확보 | [URL] [Arbitrary case-insensitive reference text] | [arbitrary case-insensitive reference text]:http://www.newsis.com/ar_detail/view.html?ar_id=NISX20151124_0010435940
+###**3. 기존 제품 조사 및 분석**
+ 
+> | 이름 | 사진 | 설명 | URL |
+| :-----: | :------: | :------: | :-------:|
+| 구글 프로젝트 룬 | ![alt text](google.png) |  여러 개의 풍선이 떠다니면서 인터넷을 지원해주는 시스템 | [link](https://brunch.co.kr/@bruncho7zx/16)|
+| KT 드론 기지국 | ![alt text](kt.png) |  다수의 드론에 LTE 가 장착된 단말기를 사용하여 한꺼번에 공중으로 띄워 통신 커버리지를 확보 | [link] [Arbitrary case-insensitive reference text] |
+[arbitrary case-insensitive reference text]:http://www.newsis.com/ar_detail/view.html?ar_id=NISX20151124_0010435940
